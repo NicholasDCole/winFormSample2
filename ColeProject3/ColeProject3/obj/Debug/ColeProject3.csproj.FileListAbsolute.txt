@@ -1,0 +1,11 @@
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.csprojAssemblyReference.cache
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.Form1.resources
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.Properties.Resources.resources
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.csproj.GenerateResource.cache
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.csproj.CoreCompileInputs.cache
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\bin\Debug\ColeProject3.exe.config
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\bin\Debug\ColeProject3.exe
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\bin\Debug\ColeProject3.pdb
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.exe
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.pdb
+C:\Users\Yoshi\source\repos\ColeProject3\ColeProject3\obj\Debug\ColeProject3.SuccessForm.resources
